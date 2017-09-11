@@ -1,0 +1,24 @@
+{
+  "name": "auto_cellularhacker_bot",
+  "version": "1.0.0",
+  "description": "This bot is made for processing my jobs in private chats",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cellularhacker/Auto_Cellularhacker_Bot.git"
+  },
+  "keywords": [
+    "Telegram",
+    "BOT",
+    "Node.js"
+  ],
+  "author": "Cellularhacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cellularhacker/Auto_Cellularhacker_Bot/issues"
+  },
+  "homepage": "https://github.com/Cellularhacker/Auto_Cellularhacker_Bot#readme"
+}
