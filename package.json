@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Cellularhacker/Auto_Cellularhacker_Bot/issues"
   },
-  "homepage": "https://github.com/Cellularhacker/Auto_Cellularhacker_Bot#readme"
+  "homepage": "https://github.com/Cellularhacker/Auto_Cellularhacker_Bot#readme",
+  "dependencies": {
+    "mysql": "^2.14.1",
+    "node-telegram-bot-api": "^0.28.0"
+  }
 }
